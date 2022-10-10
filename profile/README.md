@@ -1,1 +1,1 @@
-# Industrial Internet Intelligent Integration Development Enviroment
+# 面向国内的工业物联网开发环境
